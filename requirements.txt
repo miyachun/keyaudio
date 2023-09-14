@@ -1,0 +1,6 @@
+matplotlib
+seaborn
+tensorflow
+IPython
+pyaudio
+gradio
